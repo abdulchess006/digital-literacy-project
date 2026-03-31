@@ -1,5 +1,9 @@
 # digital-literacy-project
 
+Name:Abdul Kalam A
+Reg no:25BEC10076
+
+
 Digital Literacy Project - Complete Documentation
 This repository contains a comprehensive digital literacy curriculum consisting of 5 tasks covering essential concepts for modern learners.
 
